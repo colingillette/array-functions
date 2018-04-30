@@ -1,0 +1,10 @@
+F:\CIS266\Assignment 7\ArrayFunctions\ArrayFunctions\bin\Debug\ArrayFunctions.exe.config
+F:\CIS266\Assignment 7\ArrayFunctions\ArrayFunctions\bin\Debug\ArrayFunctions.exe
+F:\CIS266\Assignment 7\ArrayFunctions\ArrayFunctions\bin\Debug\ArrayFunctions.pdb
+F:\CIS266\Assignment 7\ArrayFunctions\ArrayFunctions\obj\Debug\ArrayFunctions.csprojResolveAssemblyReference.cache
+F:\CIS266\Assignment 7\ArrayFunctions\ArrayFunctions\obj\Debug\ArrayFunctions.Form1.resources
+F:\CIS266\Assignment 7\ArrayFunctions\ArrayFunctions\obj\Debug\ArrayFunctions.Properties.Resources.resources
+F:\CIS266\Assignment 7\ArrayFunctions\ArrayFunctions\obj\Debug\ArrayFunctions.csproj.GenerateResource.cache
+F:\CIS266\Assignment 7\ArrayFunctions\ArrayFunctions\obj\Debug\ArrayFunctions.csproj.CoreCompileInputs.cache
+F:\CIS266\Assignment 7\ArrayFunctions\ArrayFunctions\obj\Debug\ArrayFunctions.exe
+F:\CIS266\Assignment 7\ArrayFunctions\ArrayFunctions\obj\Debug\ArrayFunctions.pdb
